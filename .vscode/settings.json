@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "ExcelDMS",
+            "database": "ExcelDMS",
+            "username": "postgres",
+            "password": "134559038",
+            "connectionTimeout": 30
+        }
+    ]
+}
